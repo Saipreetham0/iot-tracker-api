@@ -189,6 +189,6 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Your Name - Hi@saipreetham.com
 
-Project Link: [https://github.com/yourusername/iot-tracker](https://github.com/yourusername/iot-tracker)
+Project Link: [https://github.com/Saipreetham0/iot-tracker-api](https://github.com/Saipreetham0/iot-tracker-api)
